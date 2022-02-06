@@ -23,4 +23,5 @@ npm run deploy
 
 now visit the link you have given in the homepage.
 
-Done.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
